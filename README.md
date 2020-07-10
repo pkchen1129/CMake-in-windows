@@ -18,7 +18,7 @@
     - Then type $cmake.exe -G "MinGW Makefiles" .. 
     - P.S: Should clean the build/ directory everytime.
 
-5. Make:
+3. Make:
     - Go to powershell and type: $copy c:\MinGW\bin\mingw32-make.exe c:\MinGW\bin\make.exe
     - Add "C:\MinGW\bin\make.exe" into environment path\
       Then you can make in the build folder
