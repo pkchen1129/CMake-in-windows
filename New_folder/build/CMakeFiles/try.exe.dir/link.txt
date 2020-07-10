@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\try.exe.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\try.exe.dir/objects.a @CMakeFiles\try.exe.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -Wl,--whole-archive CMakeFiles\try.exe.dir/objects.a -Wl,--no-whole-archive -o try.exe.exe -Wl,--out-implib,libtry.exe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\try.exe.dir\linklibs.rsp

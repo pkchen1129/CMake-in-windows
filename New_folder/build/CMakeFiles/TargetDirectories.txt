@@ -1,0 +1,3 @@
+C:/Users/PKang/Desktop/New_folder/build/CMakeFiles/edit_cache.dir
+C:/Users/PKang/Desktop/New_folder/build/CMakeFiles/try.exe.dir
+C:/Users/PKang/Desktop/New_folder/build/CMakeFiles/rebuild_cache.dir
